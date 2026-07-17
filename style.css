@@ -156,7 +156,7 @@ textarea { resize: vertical; min-height: 90px; }
 .page-crumb a { transition: color var(--ease); }
 .page-crumb a:hover { color: var(--tan); }
 .page-crumb span { color: rgba(236,233,228,0.25); }
-.hero-emblem { height: 110px; width: 110px; margin-bottom: 18px; display: block; }
+.hero-emblem { height: 165px; width: 165px; margin-bottom: 18px; display: block; }
 .page-h1 { font-size: clamp(28px, 3.8vw, 46px); font-weight: 800; color: var(--light-text); line-height: 1.1; margin-bottom: 14px; }
 .page-h1 em { font-style: normal; color: var(--tan); }
 .page-sub { font-size: 15px; color: var(--dim-text); line-height: 1.75; margin-bottom: 24px; max-width: 500px; }
